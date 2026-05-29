@@ -1,0 +1,629 @@
+[
+    {
+        "question": "Türkiye Türkçesi yazı dilinde, oluşmaları ve boğumlanma özellikleri açısından a, ı, o, u; e, i, ö, ü olmak üzere dokuz _____ bulunmaktadır.",
+        "choices": [
+            "ünlü",
+            "sesli",
+            "vokal",
+            "ötümlü",
+            "sesdeş"
+        ],
+        "answer":
+    },
+    {
+        "question": "_____ (a, e, o, ö), ağız boşluğunun ve çene açısının açık durumunda boğumlanan ünlü türüdür.",
+        "choices": [
+            "geniş sesli",
+            "geniş vokal",
+            "geniş ünlü",
+            "açık ünlü",
+            "açık vokal"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ağız boşluğunun ve çene açısının kapalı durumunda boğumlanan ünlüler (ı, i, u, ü) _____'dir.",
+        "choices": [
+            "dar sesliler",
+            "dar ünlüler",
+            "dar vokaller",
+            "kapalı vokaller",
+            "kapalı ünlüler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Dilin arka tarafının kabararak, yumuşak damakla arasındaki mesafeyi daraltması sonucu oluşan sesler _____ olarak adlandırılır. Bunlar /a/, /ı/, /o/, /u/ sesleridir.",
+        "choices": [
+            "art damak ünlüsü",
+            "art ünlüler",
+            "kalın sesliler",
+            "kalın ünlüler",
+            "art vokaller"
+        ],
+        "answer":
+    },
+    {
+        "question": "Dilin ön tarafının kabararak ön damakla arasındaki açıklığı daraltması sonucu oluşan seslere _____ denir. Bunlar /e/, /i/, /ö/, /ü/ sesleridir.",
+        "choices": [
+            "ön ünlüler",
+            "ön damak ünlüsü",
+            "ince sesliler",
+            "ince vokaller",
+            "ince ünlüler"
+        ],
+        "answer":
+    },
+    {
+        "question": "/açık, alın, elek, ışıldak, ilik, ince/ kelimelerinde yer alan a, e, ı, i sesleri _____ diye adlandırılır.",
+        "choices": [
+            "düz sesliler",
+            "düz vokaller",
+            "düz ünlüler",
+            "düz harfler",
+            "düz sesdeşler"
+        ],
+        "answer":
+    },
+    {
+        "question": "/boş, bölük, bölüm, büyük/ kelimelerinde yer alan o, u, ö, ü sesleri _____ diye adlandırılır.",
+        "choices": [
+            "yuvarlak sesliler",
+            "yuvarlak vokaller",
+            "yuvarlak ünlüler",
+            "dudak ünlüsü",
+            "yuvarlak harfler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Bir kelimenin ilk hecesi kalın bir ünlüyle (a, ı, o, u) başlıyorsa ondan sonra gelen bütün hecelerin kalın ünlülerle, ince bir ünlüyle (e, i, ö, ü) başlıyorsa sonraki hecelerin de ince ünlülerle devam etmesi kuralına _____ denir.",
+        "choices": [
+            "damak uyumu",
+            "kalınlık-incelik uyumu",
+            "büyük ünlü uyumu",
+            "önlük-artlık uyumu",
+            "dil benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Bir kelimenin ilk hecesindeki düz ünlülerden (a, e, ı, i) sonra düz ünlülerin, yuvarlak ünlülerden (o, ö, u, ü) sonra düz-geniş (a, e) ya da dar-yuvarlak (u, ü) ünlülerin gelmesi kuralına _____ denir.",
+        "choices": [
+            "dudak uyumu",
+            "düzlük-yuvarlık uyumu",
+            "küçük ünlü uyumu",
+            "küçük sesli uyumu",
+            "dudak benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Akciğerlerden gelen havanın, çıkışı sırasında ses yolundaki çeşitli engellerle karşılaşması sonucu oluşan seslere _____ denir.",
+        "choices": [
+            "sessizler",
+            "ünsüzler",
+            "konsonantlar",
+            "konsonlar",
+            "sesdeşler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzler ses tellerinin titreşime uğrayıp uğramamasına göre adlandırılırlar. Ses tellerinin titreşmesiyle oluşan ünsüzlere _____ adı verilir.",
+        "choices": [
+            "yumuşak sessizler",
+            "ünlü sesdeşler",
+            "tonlu ünsüzler",
+            "ötümlü ünsüzler",
+            "sedalı ünsüzler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzler ses tellerinin titreşime uğrayıp uğramamasına göre adlandırılırlar. Ses telleri titreşmeden oluşan ünsüzlere _____ denir.",
+        "choices": [
+            "ötümsüz ünsüzler",
+            "tonsuz ünsüzler",
+            "sedasız ünsüzler",
+            "sert ünsüzler",
+            "ünsüz sesdeşler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ses yolundan gelen havanın ağız ve burundan geçmesiyle oluşan /m, n/ ünsüzlerine _____ denir.",
+        "choices": [
+            "genizsil sesler",
+            "geniz ünsüzü",
+            "nazal konsonant",
+            "geniz konsonantı",
+            "nazal ünsüz"
+        ],
+        "answer":
+    },
+    {
+        "question": "/y/ ünsüzü, boğumlanma özelliği açısından /i/ ünlüsüne yakın olduğu için ses biliminde _____ bir ses olarak kabul edilir.",
+        "choices": [
+            "kayıcı ünlü",
+            "yaklaşık ünsüz",
+            "yarı ünlü",
+            "yarım ünlü",
+            "yarı sesli"
+        ],
+        "answer":
+    },
+    {
+        "question": "Akciğerlerden gelen havanın ağız kanalının kapanmasıyla patlama biçiminde dışarı çıkması sonucu oluşan (/b/, /c/, /ç/, /d/, /g/, /k/, /p/, /t/) ünsüzlere _____ denir.",
+        "choices": [
+            "kapanma ünsüzleri",
+            "süreksiz ünsüzler",
+            "patlayıcı ünsüzler",
+            "patlamalı sesdeşler",
+            "kapanmalı sesdeşler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ses yolunda oluşan daralma sonucu sürtünerek veya sızarak dışarı çıkan (/f/, /ğ/, /h/, /j/, /l/, /r/, /s/, /ş/, /v/, /y/, /z/) ünsüzlere _____ denir.",
+        "choices": [
+            "sürekli ünsüzler",
+            "sürtünmeli ünsüzler",
+            "sızmalı sesdeşler",
+            "daralma ünsüzleri",
+            "sızıcı ünsüzler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Akciğerlerden gelen havanın, ağız boşluğundaki yarı kapalı bir engele çarpmasıyla oluşan (/r/, /l/, /ğ/, /y/) ünsüzlere _____ denir.",
+        "choices": [
+            "sürtünmesiz ünsüzler",
+            "sürtünmeli ünsüzler",
+            "akıcı ünsüzler",
+            "titreşimli ünsüzler",
+            "açık ünsüzler"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünlü ile biten kelime kök veya gövdelerine ünlü ile başlayan bir ek getirildiğinde araya giren /y/ ünsüzüne _____ denir.",
+        "choices": [
+            "kaynaştırma ünsüzü",
+            "koruma ünsüzü",
+            "bağlayıcı ünsüz",
+            "yardımcı ünsüz",
+            "bağlantı ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Geniş ünlülerin kelimedeki bir ünsüzün etkisiyle darlaşması (geymek>giymek, yene>yine vb.) durumuna _____ denir.",
+        "choices": [
+            "ünlü benzeşmesi",
+            "vokal uyumu",
+            "ünlü daralması",
+            "ahenk kaidesi",
+            "ünlü uyumu"
+        ],
+        "answer":
+    },
+    {
+        "question": "Dar ünlülerin çeşitli nedenlerle boğumlanma özellikleri bakımından geniş ünlülere dönüşmesi (ağır>ağar, kumar>komar vb.) durumuna _____ denir.",
+        "choices": [
+            "ünlü benzeşmesi",
+            "vokal genişlemesi",
+            "ünlü uyumu",
+            "ünlü genişlemesi",
+            "vokal uyumu"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelimedeki yuvarlak ünlülerin çeşitli sebeplerle düz ünlülere dönüşmesi durumuna _____ denir.",
+        "choices": [
+            "vokal uyumu",
+            "ünlü benzeşmesi",
+            "vokal düzleşmesi",
+            "ünlü düzleşmesi",
+            "sesli düzleşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelimedeki düz ünlülerin çeşitli sebeplerle yuvarlak ünlülere dönüşmesi (savırmak>savurmak, kavışmak>kavuşmak, yımışak>yumuşak vb.) durumuna _____ denir.",
+        "choices": [
+            "dudaksıllaşma",
+            "ünlü yuvarlaklaşması",
+            "vokal yuvarlaklaşması",
+            "ünlü benzeşmesi",
+            "ünlü uyumu"
+        ],
+        "answer":
+    },
+    {
+        "question": "Türkçede ç, ş, y, l ünsüzleri, taşıdıkları boğumlanma özellikleri dolayısıyla yanlarında bulunan ünlüleri etkiler. (alma>elma; yaşıl>yeşil vb.) Bu durumuna _____ denir.",
+        "choices": [
+            "ünlü incelmesi",
+            "vokal incelmesi",
+            "öndamaksıllaşma",
+            "vokal uyumu",
+            "ünlü benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "İnce ünlülerin kalın ünlülere dönüşmesi yolu ile oluşan benzeşme türüne _____ denir. Dilimize girmiş yabancı kelimelerin bir kısmında bu olay görülmektedir. ("Arapça" suret > "Türkçe" surat vb.)",
+        "choices": [
+            "artdamaksıllaşma",
+            "vokal kalınlaşması",
+            "ünlü uyumu",
+            "ünlü kalınlaşması",
+            "ünlü benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelimelerdeki ünlülerin incelik, kalınlık veya düzlük, yuvarlaklık bakımlarından birbirine benzeşmesi durumuna _____ denir.",
+        "choices": [
+            "ahenk kaidesi",
+            "sesli uyumu",
+            "ünlü uyumu",
+            "vokal uyumu",
+            "ünlü benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ses özelliklerine veya birbirleriyle birleşme şartlarına uygun olarak kelimenin önüne, içine veya sonuna ünlü getirilmesi (limon>ilimon vb.) durumuna _____ denir.",
+        "choices": [
+            "epentez",
+            "ünlü türemesi",
+            "ünlü üremesi",
+            "ses türemesi",
+            "vokal türemesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelimedeki bir ünlünün düşmesi (gönülüm>gönlüm vb.) durumuna _____ denir.",
+        "choices": [
+            "vokal düşmesi",
+            "hece düşmesi",
+            "sıfırla nöbetleşme",
+            "ünlü düşmesi",
+            "orta hece tutumu"
+        ],
+        "answer":
+    },
+    {
+        "question": "Türkçede ünlüyle biten bir sözcükten sonra ünlüyle başlayan bir sözcük gelmesi durumunda, ilk sözcüğün sonundaki ünlü ile ikinci sözcüğün başındaki ünlünün tek hecede toplanması (kahve altı>kahvaltı) durumuna _____ denir.",
+        "choices": [
+            "hece kaynaşması",
+            "ünlü birleşmesi",
+            "ünlü kaynaşması",
+            "birleşik sözcüklerde ünlü düşmesi",
+            "büzüşme"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelime içinde art arda gelen benzer veya aynı hecelerden birinin düşmesi (-turur > -tur, -dur vb.) durumuna _____ denir.",
+        "choices": [
+            "hece düşmesi",
+            "hece tekleşmesi",
+            "haploloji",
+            "hece yutumu",
+            "kontraksiyon"
+        ],
+        "answer":
+    },
+    {
+        "question": "Kelimedeki ünsüzlerden birinin düşmesi (birle>bile, oltur- > otur-) olayına _____ denir.",
+        "choices": [
+            "ünsüz eksilmesi",
+            "ünsüz aşınması",
+            "ünsüz düşmesi",
+            "konsonant düşmesi",
+            "yutulma"
+        ],
+        "answer":
+    },
+    {
+        "question": "Daha sık ağızlarda görülen, kelimenin özgün biçiminde bulunmayan bir ünsüzün ortaya çıkması (elbet>helbet, esir>yesir) durumuna _____ denir.",
+        "choices": [
+            "ünsüz üremesi",
+            "konsonant türemesi",
+            "sesli türemesi",
+            "ünsüz türemesi",
+            "epentez"
+        ],
+        "answer":
+    },
+    {
+        "question": "Az sayıda Türkçe sözcükte, kelime içindeki ünsüzlerin tarihsel süreç içinde çeşitli nedenlerle ikiz olarak söylenmesi durumuna _____ denir.",
+        "choices": [
+            "konsonant ikileşmesi",
+            "ünsüz ikizleşmesi",
+            "ünsüz türemesi",
+            "sesli ikileşmesi",
+            "konsonant türemesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Bir söz öbeğinde birbirlerine komşu olan ya da olmayan birimlerin (ses, hece, kelime) bilinçli ya da istemsiz bir şekilde yer değiştirmesi (kibrit>kirbit, lanet>nalet, sarımsak>sarmısak vb.) olayına _____ denir.",
+        "choices": [
+            "yer değiştirme",
+            "göçüşme",
+            "metatez",
+            "karşılıklı nöbetleşme",
+            "ses aktarımı"
+        ],
+        "answer":
+    },
+    {
+        "question": "Bir kelimedeki iki ünsüzden birinin boğumlanma nitelikleri bakımından diğer ünsüzle kısmen veya tam olarak uyuma girmesi (ögsüz > öksüz) durumuna _____ denir.",
+        "choices": [
+            "ünsüz benzeşmesi",
+            "ünsüz sertleşmesi",
+            "tonsuzlaşma",
+            "ötümsüzleşme",
+            "ünsüz dudaksıllaşması"
+        ],
+        "answer":
+    },
+    {
+        "question": "(p, ç, t, k) Süreksiz sert ünsüzlerin yumuşak ünsüzlere dönüşmesi (ekmek-e > ekmeğe, yurt-a > yurda, borç-a > borca, dip-e > dibe) durumuna _____ denir.",
+        "choices": [
+            "ötümlüleşme",
+            "sedalılaşma",
+            "tonlulaşma",
+            "ünsüz yumuşaması",
+            "ünsüz benzeşmesi"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzler arasındaki benzeşmenin tersi olarak görülebilecek bir ses olayıdır. Boğumlanma noktaları aynı ya da yakın olan ünsüzlerden birinin başka bir boğumlanma noktasına geçerek benzer sesten uzaklaşması durumuna _____ denir.",
+        "choices": [
+            "başkalaşma",
+            "disimilasyon",
+            "benzeşmezlik",
+            "aykırılaşma",
+            "ünsüz zıtlaşması"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /b/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "dudak ünsüzü",
+            "dudak konsonantı",
+            "dudak-geniz ünsüzü",
+            "çift dudak ünsüzü",
+            "asıl diş ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /c/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş ünsüzü",
+            "diş eti ünsüzü",
+            "diş eti-damak ünsüzü",
+            "diş eti ardı ünsüzü",
+            "diş-damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /ç/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ardı ünsüzü",
+            "diş eti ünsüzü",
+            "diş ünsüzü",
+            "diş eti-damak ünsüzü",
+            "diş-damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /d/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ünsüzü",
+            "diş ünsüzü",
+            "diş-damak ünsüzü",
+            "asıl diş ünsüzü",
+            "dil ucu-diş ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /f/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "dudak ünsüzü",
+            "dişdudak sesdeşi",
+            "dudak konsonantı",
+            "diş eti ünsüzü",
+            "diş-dudak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /g/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "damak ünsüzü",
+            "öndamak sesdeşi",
+            "sert damak ünsüzü",
+            "damak konsonantı",
+            "ön damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /ğ/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "arka damak ünsüzü",
+            "damak ünsüzü",
+            "ön damak ünsüzü",
+            "art damak ünsüzü",
+            "yumuşak damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /h/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "gırtlak konsonantı",
+            "gırtlak sesdeşi",
+            "gırtlak ünsüzü",
+            "gırtlak konsonu",
+            "gırtlaksı sesdeş"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /j/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ünsüzü",
+            "diş ünsüzü",
+            "diş eti ardı ünsüzü",
+            "diş eti-damak ünsüzü",
+            "diş-damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /k/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "ön damak ünsüzü",
+            "damak konsonantı",
+            "damak ünsüzü",
+            "ön damaksı sesdeş",
+            "sert damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /l/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ünsüzü",
+            "ön damak ünsüzü",
+            "damak ünsüzü",
+            "diş eti-damak ünsüzü",
+            "damak konsonantı"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /m/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "dudak konsonantı",
+            "dudak-genizsi sesdeş",
+            "dudak ünsüzü",
+            "çift dudak ünsüzü",
+            "dudak-geniz ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /n/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş ünsüzü",
+            "diş eti ünsüzü",
+            "diş-damak ünsüzü",
+            "asıl diş ünsüzü",
+            "dil ucu-diş ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /p/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "dudak ünsüzü",
+            "dudak konsonantı",
+            "dudak-geniz ünsüzü",
+            "çift dudak ünsüzü",
+            "asıl diş ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /r/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "damak ünsüzü",
+            "diş eti ünsüzü",
+            "ön damak ünsüzü",
+            "asıl diş ünsüzü",
+            "sert damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /s/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ünsüzü",
+            "asıl diş ünsüzü",
+            "dişler arası ünsüz",
+            "dil Ucu-diş ünsüzü",
+            "diş-damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /ş/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş eti ardı ünsüzü",
+            "diş eti-damak ünsüzü",
+            "diş eti ünsüzü",
+            "diş ünsüzü",
+            "diş-damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /t/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş ünsüzü",
+            "diş-damak ünsüzü",
+            "asıl diş ünsüzü",
+            "dil ucu-diş ünsüzü",
+            "diş eti ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /v/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "dudak ünsüzü",
+            "dişdudak sesdeşi",
+            "dudak konsonantı",
+            "diş eti ünsüzü",
+            "diş-dudak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /y/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "ön damak ünsüzü",
+            "damak konsonantı",
+            "damak ünsüzü",
+            "ön damaksı sesdeş",
+            "sert damak ünsüzü"
+        ],
+        "answer":
+    },
+    {
+        "question": "Ünsüzlerin sınıflandırılmasında temel oluşturan önemli özelliklerden biri de, ünsüzlerin boğumlanması sırasında ağzın hangi bölüm veya noktalarının etkin olduğudur. Buna göre /z/ ünsüzü, çıkış noktası bakımından _____ ünsüzüdür.",
+        "choices": [
+            "diş-damak ünsüzü",
+            "diş eti ünsüzü",
+            "dil ucu-diş ünsüzü",
+            "dişler arası ünsüz",
+            "asıl diş ünsüzü"
+        ],
+        "answer":
+    }
+]
