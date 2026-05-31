@@ -8,7 +8,7 @@
 
 ### Citation
 ```bibtex
-@conferencepaper{erkutresul-2026-tr-phonologicalterms,
+@conferencepaper{erkutresul-2026-tr-phonologicalterms-GLLMs,
     title = {Representation of Turkish Phonological Terms in Generative Large Language Models},
     author = {E. R.},
     symposium = {-},
