@@ -1,3 +1,4 @@
+
 ### <div align="center">Representation of Turkish Phonological Terms in Generative Large Language Models</div>
 #### <div align="right">Erkut RESULOĞLU</div>
 ### Abstract
@@ -11,14 +12,14 @@
 
 ### Citation
 ```bibtex
-@conferencepaper{erkutresul-2026-tr-phonologicalterms-GLLMs,
-    title = {Representation of Turkish Phonological Terms in Generative Large Language Models},
-    author = {E. R.},
+@conferencepaper{erkutresul-2026-turkishphonologicalterms-GLLMs,
+    title = {-},
+    author = {Erkut R.},
     symposium = {-},
     year = {2026},
     type = {-},
     pages = {-},
     language = {Turkish},
-    abstract = {-}
+    abstract = {Representation of Turkish Phonological Terms in Generative Large Language Models}
 }
 ```
