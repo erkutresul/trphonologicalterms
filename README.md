@@ -6,6 +6,9 @@
 
 **Keywords:** *Large language models (LLMs), generative artificial intelligence, Turkish phonology, text-based models, terminology.*
 
+### License
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ### Citation
 ```bibtex
 @conferencepaper{erkutresul-2026-tr-phonologicalterms-GLLMs,
@@ -15,7 +18,6 @@
     year = {2026},
     type = {-},
     pages = {-},
-    language = {Turkish},
-    abstract = {-}
+    language = {Turkish}
 }
 ```
