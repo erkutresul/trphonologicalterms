@@ -18,6 +18,7 @@
     year = {2026},
     type = {-},
     pages = {-},
-    language = {Turkish}
+    language = {Turkish},
+    abstract = {-}
 }
 ```
