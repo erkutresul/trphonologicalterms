@@ -12,7 +12,7 @@
 
 ### Citation
 ```bibtex
-@conferencepaper{erkutresul-2026-turkishphonologicalterms-GLLMs,
+@conferencepaper{erkutresul-2026-trphonologicalterms,
     title = {-},
     author = {Erkut R.},
     symposium = {-},
