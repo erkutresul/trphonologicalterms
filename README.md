@@ -14,7 +14,7 @@
 ```bibtex
 @conferencepaper{erkutresul-2026-trphonologicalterms,
     title = {-},
-    author = {Erkut R.},
+    author = {Erkut Resuloğlu},
     symposium = {-},
     year = {2026},
     type = {-},
